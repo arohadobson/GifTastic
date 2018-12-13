@@ -1,6 +1,6 @@
 # Giftastic API
 
-Giftastic uses API calls and bootstrap to make a fun and interactive search engine using the Giphy API.
+Giftastic uses API calls and bootstrap to make a fun and interactive search engine.
 
 ## How To Search
 
