@@ -1,34 +1,34 @@
 body {
-	background-image: url("../images/ignasi_pattern_s.png");
-	margin: 0px;
-	padding: 0px;
+  background-image: url("../images/ignasi_pattern_s.png");
+  margin: 0px;
+  padding: 0px;
 }
 
 .buttons-view {
-	margin: 20px 0px 20px 0px;
+  margin: 20px 0px 20px 0px;
 }
 
 .gifDiv {
-	margin-right: 10px;
-	float: left;
-	margin-bottom: 20px;
+  margin-right: 10px;
+  float: left;
+  margin-bottom: 20px;
 }
 
 .topic {
-	margin-right: 5px;
-	margin-bottom: 5px;
-	background-color: #4aaaa5;
-	color: white;
+  margin-right: 5px;
+  margin-bottom: 5px;
+  background-color: gold
+  color: black;
 }
 
 #add-topic {
-	background-color: #4aaaa5;
-	color: white;
-	margin-top: 10px;
-	margin-bottom: 10px;
+  background-color: gold;
+  color: black;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 #topic-input {
-	width: 100%;
-	margin-top: 2px;
+  width: 100%;
+  margin-top: 2px;
 }
